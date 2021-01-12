@@ -51,10 +51,16 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
+
+The closing price model
 >
 > Which model tracks the actual values better over time?
+
+The closing price model
 >
 > Which window size works best for the model?
+
+10 days worked best for me
 
 - - -
 
